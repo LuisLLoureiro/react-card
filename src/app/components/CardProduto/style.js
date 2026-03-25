@@ -25,5 +25,5 @@ export const CardBotao = styled.button`
   cursor: pointer;
 
   background-color: ${(props) =>
-    props.botaoprod ? "#198754" : "#6c757d"};
+    props.$botaoprod ? "#198754" : "#6c757d"};
 `

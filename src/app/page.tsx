@@ -11,22 +11,22 @@ export default function Home() {
     <CardProduto 
     nomeprod="Caderno"
     precoprod="R$19,99"
-    botaoprod={false}
+    $botaoprod={false}
     />
     <CardProduto 
     nomeprod="Martelo"
     precoprod="R$79,99"
-    botaoprod={true}
+    $botaoprod={true}
     />
     <CardProduto 
     nomeprod="Furadeira"
     precoprod="R$129,99"
-    botaoprod={true}
+    $botaoprod={true}
     />
     <CardProduto 
     nomeprod="Canetas"
     precoprod="R$4,99"
-    botaoprod={false}
+    $botaoprod={false}
     />
     </Lista>
     </Base>
